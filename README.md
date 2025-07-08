@@ -18,6 +18,9 @@ This project was developed as in a Computer Science course at the University of 
   - Total monthly expense breakdown
   -  Weekly hours needed to break even
   -  Weekly hours needed to save $100/month
+ 
+### Psuedocode / Flowchart 
+[View Flowchart and Pseudocode (PDF)](./Samuel%20Ramdial%20-%20Project%201%20Flowchart%20and%20Pseudocode.pdf)
 
 ## Reflection 
 This project served as an introductory programming milestone, reinforcing key fundamentals in Java. It also provided insight into planning and structuring a program before writing code. Challenges encountered were mostly around organizing calculations and rounding output accurately, which were resolved through iterative testing and step-by-step debugging. 
