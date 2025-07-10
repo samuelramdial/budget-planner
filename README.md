@@ -2,7 +2,7 @@
 **Budget Planner** is a beginner-friendly Java program designed to practice variables, expressions, and assignment statements. It simulates a real-life budgeting scenario for a grader/TA at the College of Computing and Informatics (CCI), helping determine how many hours they need to work to afford living expenses. 
 
 ## Project Overview 
-This project was developed as in a Computer Science course at the University of North Carolina at Charlotte. It introduces basic programming concepts such as: 
+This project was developed as part of ITSC 1212 - Introduction to Computer Science I at the University of North Carolina at Charlotte. It introduces basic programming concepts such as: 
 - Variable declarations
 - Arithmetic expressions
 - Console output
