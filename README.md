@@ -24,3 +24,9 @@ This project was developed as part of ITSC 1212 - Introduction to Computer Scien
 
 ## Reflection 
 This project served as an introductory programming milestone, reinforcing key fundamentals in Java. It also provided insight into planning and structuring a program before writing code. Challenges encountered were mostly around organizing calculations and rounding output accurately, which were resolved through iterative testing and step-by-step debugging. 
+
+## Acknowledgements
+Project developed for: 
+- **ITSC 1212 - Introduction to Computer Science I**
+- Intstructor: D.I. Von Briesen
+- University of North Carolina at Charlotte
